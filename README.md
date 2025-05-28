@@ -16,14 +16,14 @@
 👉 [Click here to run the app on Streamlit Cloud](https://the-budget-buddy.streamlit.app/)
 
 
+## 📊 Example Data
+
+You can use this [demo_finances.csv](./data/demo_finances.csv) to test the app.
+
+
 ## 📦 Requirements
 
 To run the app locally, install the dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-
-## 📊 Example Data
-
-You can use this [demo_finances.csv](./data/demo_finances.csv) to test the app.
