@@ -1,0 +1,31 @@
+Select,Date,Name,Description,Amount,Category,Type,Currency,Payment Method,Project
+FALSE,05/01/2025 00:00,Monthly Salary,April net salary,6000,Income,Income,CHF,Bank Transfer,Personal
+FALSE,05/02/2025 00:00,Groceries,Monthly food shopping,-150,Groceries,Expense,CHF,Debit Card,Personal
+FALSE,05/03/2025 00:00,Electricity Bill,April usage,-80,Utilities,Expense,CHF,Direct Debit,Personal
+FALSE,05/04/2025 00:00,Public Transport,Monthly pass,-75,Transport,Expense,CHF,Debit Card,Personal
+FALSE,05/05/2025 00:00,Health Insurance,May premium,-350,Insurance,Expense,CHF,Bank Transfer,Personal
+FALSE,05/06/2025 00:00,Coffee,Daily latte,-5,Coffee,Expense,CHF,Cash,Personal
+FALSE,05/07/2025 00:00,Internet Bill,May subscription,-50,Utilities,Expense,CHF,Direct Debit,Personal
+FALSE,05/08/2025 00:00,Mobile Phone,May plan,-40,Utilities,Expense,CHF,Direct Debit,Personal
+FALSE,05/09/2025 00:00,Netflix,Streaming service,-20,Subscriptions,Expense,CHF,Credit Card,Personal
+FALSE,05/10/2025 00:00,Spotify,Music subscription,-10,Subscriptions,Expense,CHF,Credit Card,Personal
+FALSE,05/11/2025 00:00,Restaurant Dinner,Evening out,-60,Restaurants,Expense,CHF,Credit Card,Personal
+FALSE,05/12/2025 00:00,Pharmacy,Medicine,-25,Healthcare,Expense,CHF,Debit Card,Personal
+FALSE,05/13/2025 00:00,Gas Station,Car fuel,-70,Transport,Expense,CHF,Debit Card,Personal
+FALSE,05/14/2025 00:00,Bookstore,New novel,-30,Entertainment,Expense,CHF,Cash,Personal
+FALSE,05/15/2025 00:00,Freelance Project,Website design,1200,Income,Income,CHF,Bank Transfer,Freelance
+FALSE,05/16/2025 00:00,Rent,May apartment,-1500,Housing,Expense,CHF,Bank Transfer,Personal
+FALSE,05/17/2025 00:00,Clothing,New shoes,-120,Clothing,Expense,CHF,Credit Card,Personal
+FALSE,05/18/2025 00:00,Charity,Donation,-50,Charity,Expense,CHF,Debit Card,Personal
+FALSE,05/19/2025 00:00,Movie Ticket,Weekend film,-18,Entertainment,Expense,CHF,Cash,Personal
+FALSE,05/20/2025 00:00,Gas,Home heating,-100,Utilities,Expense,CHF,Direct Debit,Personal
+FALSE,05/21/2025 00:00,Dining Out,Lunch,-25,Restaurants,Expense,CHF,Debit Card,Personal
+FALSE,05/22/2025 00:00,Pharmacy,Vitamins,-15,Healthcare,Expense,CHF,Cash,Personal
+FALSE,05/23/2025 00:00,Coffee,Afternoon espresso,-5,Coffee,Expense,CHF,Cash,Personal
+FALSE,05/24/2025 00:00,Taxi,Airport transfer,-45,Transport,Expense,CHF,Credit Card,Personal
+FALSE,05/25/2025 00:00,Haircut,Salon,-60,Personal Care,Expense,CHF,Cash,Personal
+FALSE,05/26/2025 00:00,Petrol,Car refill,-65,Transport,Expense,CHF,Debit Card,Personal
+FALSE,05/27/2025 00:00,Gym Membership,Monthly fee,-55,Health & Fitness,Expense,CHF,Direct Debit,Personal
+FALSE,05/28/2025 00:00,Online Course,Data Science,-200,Education,Expense,CHF,Credit Card,Personal
+FALSE,05/29/2025 00:00,Gift,Friend's birthday,-80,Gifts,Expense,CHF,Cash,Personal
+FALSE,05/30/2025 00:00,Cinema,New Show,-20,Entertainment,Expense,CHF,Cash,Personal
