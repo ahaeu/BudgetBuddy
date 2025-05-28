@@ -18,7 +18,7 @@
 
 ## 📊 Example Data
 
-You can use this [demo_finances.csv](./data/demo_finances.csv) to test the app.
+You can use this [demo_finances.csv](./demo_finances.csv) to test the app.
 
 
 ## 📦 Requirements
