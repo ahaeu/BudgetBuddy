@@ -1,6 +1,6 @@
 # 💸 BudgetBuddy – Your Personal Finance Tracker
 
-**BudgetBuddy** is an interactive Streamlit app that helps you track, manage, and analyze your income and expenses — no spreadsheets required!
+**BudgetBuddy** is an interactive Streamlit app that helps you track, manage, and analyze your income and expenses.
 
 ## 🚀 Features
 
