@@ -20,6 +20,10 @@
 
 You can use this [demo_finances.csv](./demo_finances.csv) to test the app.
 
+## 📎 Documentation
+
+You can read the [documentation.pdf](./Documentation.pdf) here.
+
 
 ## 📦 Requirements
 
